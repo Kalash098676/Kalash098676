@@ -1,9 +1,7 @@
 <!-- ================= ANIMATED HEADER ================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30202B,100:FFB6D9&height=220&section=header&text=Kalash%20Tyagi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Animated header"/>
 </p>
-
 <h3 align="center">
   IT Engineering Student | Exploring AI & Machine Learning 🚀
 </h3>
@@ -29,11 +27,9 @@
   <a href="https://portfolio-gamma-rouge-28qowqh9qo.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-FFB6D9?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="My Portfolio"/>
   </a>
+  </p>
+
   
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -54,8 +50,6 @@
 
 <br clear="right"/>
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Web Development
@@ -73,6 +67,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+
 ### 🤖 AI & Machine Learning
 
 <p align="center">
@@ -80,11 +75,13 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-30202B?style=for-the-badge&logo=openai&logoColor=FFB6D9" alt="Artificial Intelligence"/>
 </p>
 
+
 ### 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" alt="Programming languages"/>
 </p>
+
 
 ### 🗄️ Database & Tools
 
@@ -92,11 +89,12 @@
   <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,git,github,vscode&theme=dark" alt="Database and tools"/>
 </p>
 
----
 
 ## 🚀 My Projects
 
+
 ### 🌐 Web Development Projects
+
 
 <table>
 <tr>
@@ -115,6 +113,7 @@ A web development project focused on UI components and interactive interfaces.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">💪 Fitness Website</h3>
@@ -148,6 +147,7 @@ A beauty and lifestyle website project.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">✨ More Projects</h3>
@@ -164,9 +164,12 @@ Explore my repositories to discover more development projects and experiments.
 
 </td>
 </tr>
+
 </table>
 
+
 ### 📊 Data Analytics Projects
+
 
 <table>
 <tr>
@@ -203,9 +206,9 @@ An interactive Power BI dashboard for exploring e-commerce data and business ins
 </tr>
 </table>
 
----
 
 ## ☁️ Deployment Platforms
+
 
 <p align="center">
   <a href="https://vercel.com/kalash-tyagi-s-projects">
@@ -220,16 +223,17 @@ An interactive Power BI dashboard for exploring e-commerce data and business ins
 🚀 Deploying and managing web applications using Vercel and Render.
 </p>
 
----
 
 ## 📊 GitHub Statistics
+
+
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Kalash098676&theme=dark&hide_border=true&background=0D1117&ring=FFB6D9&fire=FFB6D9&currStreakLabel=FFB6D9" alt="GitHub contribution streak"/>
 </p>
 
----
 
 ## 🎯 Currently Focused On
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFB6D9&center=true&vCenter=true&width=600&lines=Building+Responsive+Websites;Practicing+Data+Structures+%26+Algorithms;Learning+Business+Intelligence;Exploring+Artificial+Intelligence;Creating+Real-World+Projects" alt="Current learning animation"/>
@@ -241,9 +245,9 @@ An interactive Power BI dashboard for exploring e-commerce data and business ins
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🚀 Developing practical projects and learning new technologies.
 
----
 
 ## 🤝 Connect With Me
+
 
 <p align="center">
   <a href="https://github.com/Kalash098676">
